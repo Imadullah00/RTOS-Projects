@@ -1,0 +1,28 @@
+12:12:03 **** Incremental Build of configuration Debug for project 002Tasks_LED2 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I"C:/Workspace/RTOS_workspace/common/ThirdParty/FreeRTOS/include" -I"C:/Workspace/RTOS_workspace/common/ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F" -I"C:/Workspace/RTOS_workspace/common/ThirdParty/SEGGER/Config" -I"C:/Workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS" -I"C:/Workspace/RTOS_workspace/common/ThirdParty/SEGGER/SEGGER" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "002Tasks_LED2.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Workspace\RTOS_workspace\002Tasks_LED2\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="002Tasks_LED2.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 002Tasks_LED2.elf
+ 
+arm-none-eabi-size  002Tasks_LED2.elf 
+arm-none-eabi-objdump -h -S 002Tasks_LED2.elf  > "002Tasks_LED2.list"
+   text	   data	    bss	    dec	    hex	filename
+  29316	    108	 105156	 134580	  20db4	002Tasks_LED2.elf
+Finished building: default.size.stdout
+ 
+Finished building: 002Tasks_LED2.list
+ 
+12:24:17 **** Incremental Build of configuration Debug for project 002Tasks_LED2 ****
+make -j8 all 
+arm-none-eabi-size  002Tasks_LED2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29316	    108	 105156	 134580	  20db4	002Tasks_LED2.elf
+Finished building: default.size.stdout
+ 
+12:24:34 **** Incremental Build of configuration Debug for project 002Tasks_LED2 ****
+make -j8 all 
+arm-none-eabi-size  002Tasks_LED2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29316	    108	 105156	 134580	  20db4	002Tasks_LED2.elf
+Finished building: default.size.stdout
+ 

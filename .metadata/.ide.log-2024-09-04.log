@@ -1,0 +1,66 @@
+2024-09-05 00:05:42,495 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 743465128 Bytes (1073741824)
+2024-09-05 00:05:44,307 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 771776680 Bytes (1073741824)
+2024-09-05 00:05:46,486 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 859857064 Bytes (1073741824)
+2024-09-05 00:05:46,959 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-09-05 00:05:46,960 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-09-05 00:05:46,960 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-09-05 00:05:46,961 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-09-05 00:05:46,962 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-09-05 00:05:47,216 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\license.tmp_save
+2024-09-05 00:05:47,455 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\license.tmp
+2024-09-05 00:05:47,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\gpio.tmp_save
+2024-09-05 00:05:47,793 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\gpio.tmp
+2024-09-05 00:05:47,901 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_it.c_save
+2024-09-05 00:05:48,313 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_it.c
+2024-09-05 00:05:48,338 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_it.h_save
+2024-09-05 00:05:48,465 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_it.h
+2024-09-05 00:05:48,497 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-05 00:05:48,675 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_msp.c
+2024-09-05 00:05:48,680 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\system.tmp_save
+2024-09-05 00:05:48,783 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\system.tmp
+2024-09-05 00:05:48,815 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-05 00:05:48,950 [INFO] CodeEngine:335 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-05 00:05:49,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\main.h_save
+2024-09-05 00:05:49,167 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\main.h
+2024-09-05 00:05:49,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\main.c_save
+2024-09-05 00:05:49,420 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\main.c
+2024-09-05 00:05:50,535 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 377mS.
+2024-09-05 00:05:50,539 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-09-05 00:05:51,013 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-09-05 00:05:54,475 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 3936mS.
+2024-09-05 00:05:54,476 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-09-05 00:05:54,480 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-09-05 00:10:44,925 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 707467624 Bytes (1073741824)
+2024-09-05 00:10:46,585 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 734204264 Bytes (1073741824)
+2024-09-05 00:10:54,807 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 782965096 Bytes (1073741824)
+2024-09-05 00:10:55,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-09-05 00:10:55,101 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-09-05 00:10:55,102 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-09-05 00:10:55,103 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-09-05 00:10:55,104 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-09-05 00:10:55,401 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\license.tmp_save
+2024-09-05 00:10:55,530 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\license.tmp
+2024-09-05 00:10:55,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\gpio.tmp_save
+2024-09-05 00:10:55,774 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\gpio.tmp
+2024-09-05 00:10:55,871 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_it.c_save
+2024-09-05 00:10:56,273 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_it.c
+2024-09-05 00:10:56,283 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_it.h_save
+2024-09-05 00:10:56,452 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_it.h
+2024-09-05 00:10:56,481 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-05 00:10:56,662 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_msp.c
+2024-09-05 00:10:56,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\system.tmp_save
+2024-09-05 00:10:56,761 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\MXTmpFiles\system.tmp
+2024-09-05 00:10:56,783 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-09-05 00:10:56,904 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-09-05 00:10:56,943 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-05 00:10:57,080 [INFO] CodeEngine:335 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-05 00:10:57,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\main.h_save
+2024-09-05 00:10:57,259 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Inc\main.h
+2024-09-05 00:10:57,282 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\main.c_save
+2024-09-05 00:10:57,449 [INFO] CodeEngine:279 - Generated code: C:\Workspace\RTOS_workspace\001Tasks_New\Core\Src\main.c
+2024-09-05 00:10:58,400 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 357mS.
+2024-09-05 00:10:58,403 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-09-05 00:10:58,869 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-09-05 00:11:01,237 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2834mS.
+2024-09-05 00:11:01,238 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-09-05 00:11:01,243 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
